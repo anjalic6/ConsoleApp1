@@ -1,0 +1,7 @@
+C:\AnnaPlan\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\AnnaPlan\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\AnnaPlan\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\AnnaPlan\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\AnnaPlan\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\AnnaPlan\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\AnnaPlan\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
